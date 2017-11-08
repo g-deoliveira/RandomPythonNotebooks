@@ -3,7 +3,10 @@ A place to save random python notebooks
 
 <ul>
 <li> <b>AWS S3 file manipulations</b> shows a few simple manipulations of files in an AWS S3 bucket
+<li> <b>Decision tree path</b> for each path of a decision tree, extracts the decisions at each node
 </ul>
+
+A brief description of each notebook follows.
 
 <h3>AWS S3 file manipulations</h3>
 
@@ -17,4 +20,7 @@ The example I will use consists of an S3 bucket that has three folders: <b>input
 Initially, the <b>archived</b> and <b>errors</b> folders are empty, whereas the <b>input</b> folder has a single file in it: *IF009_1.txt* <br>
 
 <img src='files/s3_input_folder.png' width=300>
+
+<h3>Decision Tree Path</h3>
+Train a decision tree on a data set. Then extract the decision tree paths. For each path, obtain the decisions for each node as well as some summary statistics of each leaf.
 
