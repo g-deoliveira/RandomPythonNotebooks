@@ -4,6 +4,7 @@ A place to save random python notebooks
 <ul>
 <li> <b>AWS S3 file manipulations</b> shows a few simple manipulations of files in an AWS S3 bucket
 <li> <b>Decision tree path</b> for each path of a decision tree, extracts the decisions at each node
+<li> <b>Text Classification Using TF-IDF vectorization</b> classify BBC news articles into 5 categories (business, entertainment, politics, sport, tech)
 </ul>
 
 A brief description of each notebook follows.
